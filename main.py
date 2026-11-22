@@ -9,9 +9,8 @@ Deterministic, standard library only, no network.
 import os
 
 TEXT = (
-    "The kettle clicks off, and the kitchen goes quiet again. "
-    "Steam rises, thins, and is gone. Your tea is warm. "
-    "Nothing here needs deciding, and the evening can wait a little longer."
+    "In a shaft of afternoon light, dust drifts down so slowly "
+    "you can watch one mote fall, and fall, and still not land."
 )
 
 
