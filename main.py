@@ -9,8 +9,8 @@ Deterministic, standard library only, no network.
 import os
 
 TEXT = (
-    "The last ember in the grate has gone grey at the edges. "
-    "The room is dark now, and the dark is warm."
+    "Ice melts in a glass no one is drinking from. "
+    "Drop by drop, the water finds its level."
 )
 
 
